@@ -1,6 +1,3 @@
-# Steve's Offline Flash Games
-Offline Flash Games that can work offline and never be blocked, for use during those boring times at school or work but also useful for times where there is no internet.
-View the [Online Demo](https://steve-tech.github.io/Offline-Flash-Games/index.html).
 ## Games
  - 2048
  - Chess 3
